@@ -1,0 +1,37 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="391px" height="311px" viewBox="-0.5 -0.5 391 311" content="&lt;mxfile&gt;&lt;diagram id=&quot;O53YEBXOVuI-NfCtoB9p&quot; name=&quot;ページ1&quot;&gt;rVZNk6IwEP013ANR1KPDzO4eZmunysOeI7SQmkBTIYy6v34bE74Ex9lavRheujvp9x6tHo/y03ctyuwnJqC8gCUnjz97QeAHjNFXg5wtsgx9C6RaJi6oB3byDzjQ5aW1TKAaBRpEZWQ5BmMsCojNCBNa43EcdkA1PrUUKUyAXSzUFP0tE5NZdB2sevwHyDRrT/bDjd3JRRvsOqkykeBxAPEXj0ca0dhVfopANeS1vNi8bzd2u4tpKMxXEgKb8CFU7Xpz9zLntlmNdZFAE888/nTMpIFdKeJm90jyEpaZXNGTT8uDVCpChfqSy0PB2OHQ4FiYAX64fAivjMZ3GOzwFWNRRDvuYqANnG4253eUkdcAczD6TCEuYRE6lp3NOv8ce9H8VolsIFibJ5xP0q50TyUtHJvzzPL7zJL4ZbOMz0oSxZrf53dvxXjdd4CI39OLRL9qQ2XA4ZV9afzlVBTG1iTLv4jC2HJ1yXiAKHwxFqV7HogSzmiyfoAmi4km29hQk7eEqXNlA/hT07OkCfAq9qDesJJGYkEhezQG80HAVsm02TB4JR1afaJuJj2IUH8zJtSfcflmhtDO+f/D6PLrLj8oOG2b4UttQ5G45XOsRFXJ+GI7oc0UHlBoa0Mymc53uRq+8WyOjBbUoISRH+MD5hhyZ7yhpKN7d4c33N2WqLDWMbis4WC+KjSZXdeFiKwUzKQQ8SfOg7CyCag+uTCfn5G9/rZi74aO1TmD0GP/42XD+78A/OUv&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="270" y="100" width="120" height="60" fill="#6a00ff" stroke="#3700cc" pointer-events="all"/>
+        <path d="M 150 245 C 150 236.72 163.43 230 180 230 C 187.96 230 195.59 231.58 201.21 234.39 C 206.84 237.21 210 241.02 210 245 L 210 295 C 210 303.28 196.57 310 180 310 C 163.43 310 150 303.28 150 295 Z" fill="#008a00" stroke="#005700" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 210 245 C 210 253.28 196.57 260 180 260 C 163.43 260 150 253.28 150 245" fill="none" stroke="#005700" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="45" cy="15" rx="22.5" ry="15" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 45 30 L 45 80 M 45 40 L 0 40 M 45 40 L 90 40 M 45 80 L 0 120 M 45 80 L 90 120" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 127px; margin-left: 45px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Actor
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="45" y="139" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Actor
+                </text>
+            </switch>
+        </g>
+        <path d="M 170.49 209.88 L 180.72 207.51 L 169.89 229.51 L 150.51 214.48 L 160.74 212.12 L 136.93 108.92 Q 133.33 93.33 148.92 96.93 L 252.12 120.74 L 254.48 110.51 L 269.51 129.89 L 247.51 140.72 L 249.88 130.49 L 146.67 106.67 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 170.49 209.88 L 180.72 207.51 L 169.89 229.51 L 150.51 214.48 L 160.74 212.12" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="flat" stroke-miterlimit="4" pointer-events="all"/>
+        <path d="M 252.12 120.74 L 254.48 110.51 L 269.51 129.89 L 247.51 140.72 L 249.88 130.49" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="flat" stroke-miterlimit="4" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
