@@ -16,9 +16,9 @@ CHAPS:
     # - lectures2.re
     # - lectures3.re
   - 練習篇:
-    - exercises.re
+    - 11-exercises.re
   - 作成篇:
-    - answers.re
+    - 21-answers.re
 
 ## 付録
 APPENDIX:
